@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegResponse.Form1.resources
+obj\Debug\RegResponse.Properties.Resources.resources
+obj\Debug\RegResponse.csproj.GenerateResource.Cache
+bin\Debug\RegResponse.exe
+bin\Debug\RegResponse.pdb
+obj\Debug\RegResponse.exe
+obj\Debug\RegResponse.pdb
